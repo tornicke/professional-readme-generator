@@ -35,6 +35,10 @@ Challenge README
 
 ![image](https://github.com/tornicke/professional-readme-generator/blob/main/Assets/images/Screenshot-index.png)
 
+<h2>Screenshot (sample, app-generated README file)</h2>
+
+![image](https://github.com/tornicke/professional-readme-generator/blob/main/Assets/images/Screenshot_sample_README.png)
+
 <h2>Required URLs:</h2>
 
 [Walkthrough Video URL](https://drive.google.com/file/d/1Fx-B-us0Vq4NVm0PG1F13R-j7Vno2pow/view?usp=sharing)
