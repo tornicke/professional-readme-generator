@@ -31,7 +31,11 @@ Challenge README
 <li>Repository contains multiple descriptive commit messages,</li>
 <li>Repository contains a high-quality README with description and a link to walkthrough video.</li>
 
-<h2>Screenshot</h2>
+<h2>Screenshot (commands)</h2>
+
+![image](https://github.com/tornicke/weather-dashboard/blob/ed52d924dc9c17320d5d9c139c2f43a00612ea8d/Assets/images/Screenshot.png)
+
+<h2>Screenshot (of the sample README file)</h2>
 
 ![image](https://github.com/tornicke/weather-dashboard/blob/ed52d924dc9c17320d5d9c139c2f43a00612ea8d/Assets/images/Screenshot.png)
 
