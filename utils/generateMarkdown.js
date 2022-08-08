@@ -39,11 +39,6 @@ const generateTemplate = (answer) => {
   ## Usage
 
   ${answer.usageInformation}
-  
-  //! Check this and decide if it needs to be taken out
-  To add a screenshot, create an \`assets/images\` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-  ![alt text](assets/images/screenshot.png)
 
   ## License
   The application is covered by the ${answer.licenseBadges} license. 

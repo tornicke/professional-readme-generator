@@ -44,6 +44,7 @@ inquirer
       type: "input",
       message: "How can a user test your app?",
     },
+    /*"list" type for the license question*/
     {
       name: "licenseBadges",
       type: "list",
