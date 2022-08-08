@@ -32,10 +32,8 @@ const generateTemplate = (answer) => {
   ${answer.usageInformation}
 
   ## License
-  The application is covered by the ${answer.licenseBadges} license. 
-  For further information, please click this badge: ${renderLicenseBadge(
-    answer.licenseBadges
-  )}
+  ${renderLicenseBadge(answer.licenseBadges)}  
+  The application is covered by the ${answer.licenseBadges} license.    
 
   ## Contributing
 
@@ -49,7 +47,7 @@ const generateTemplate = (answer) => {
   Click my GitHub [username](https://github.com/${
     answer.githubUsername
   }) to browse my projects and other activity:
-  [${answer.githubUsername}](https://github.com/${answer.githubUsername})
+  [${answer.githubUsername}](https://github.com/${answer.githubUsername})  
 
   For further questions, please send me an [email](mailto:${
     answer.emailAddress

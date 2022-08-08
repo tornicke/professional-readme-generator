@@ -33,14 +33,10 @@ Challenge README
 
 <h2>Screenshot (commands)</h2>
 
-![image](https://github.com/tornicke/weather-dashboard/blob/ed52d924dc9c17320d5d9c139c2f43a00612ea8d/Assets/images/Screenshot.png)
-
-<h2>Screenshot (of the sample README file)</h2>
-
-![image](https://github.com/tornicke/weather-dashboard/blob/ed52d924dc9c17320d5d9c139c2f43a00612ea8d/Assets/images/Screenshot.png)
+![image](https://github.com/tornicke/professional-readme-generator/blob/main/Assets/images/Screenshot-index.png)
 
 <h2>Required URLs:</h2>
 
-[Walkthrough Video URL](https://tornicke.github.io/weather-dashboard/)
+[Walkthrough Video URL](https://drive.google.com/file/d/1Fx-B-us0Vq4NVm0PG1F13R-j7Vno2pow/view?usp=sharing)
 
 [GitHub repository URL](https://github.com/tornicke/professional-readme-generator)
