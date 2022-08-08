@@ -46,7 +46,7 @@ const generateTemplate = (answer) => {
   ${answer.testInstructions}
 
   ## Questions
-  Click my GitHub username [username](https://github.com/${
+  Click my GitHub [username](https://github.com/${
     answer.githubUsername
   }) to browse my projects and other activity:
   [${answer.githubUsername}](https://github.com/${answer.githubUsername})
